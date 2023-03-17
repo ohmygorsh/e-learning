@@ -1,4 +1,5 @@
 # E-learning Courses Analysis
+Data analysis on the courses.
 * Jupyter notebook: e-learning_project.ipynb
 * data sets: 
   * assessments.csv
